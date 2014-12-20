@@ -1,0 +1,6 @@
+c:\users\ahmed\documents\visual studio 2012\Projects\MacDonaldsInterview1\MacDonaldsInterview1\bin\Debug\MacDonaldsInterview1.exe.config
+c:\users\ahmed\documents\visual studio 2012\Projects\MacDonaldsInterview1\MacDonaldsInterview1\bin\Debug\MacDonaldsInterview1.exe
+c:\users\ahmed\documents\visual studio 2012\Projects\MacDonaldsInterview1\MacDonaldsInterview1\bin\Debug\MacDonaldsInterview1.pdb
+c:\users\ahmed\documents\visual studio 2012\Projects\MacDonaldsInterview1\MacDonaldsInterview1\obj\Debug\MacDonaldsInterview1.csprojResolveAssemblyReference.cache
+c:\users\ahmed\documents\visual studio 2012\Projects\MacDonaldsInterview1\MacDonaldsInterview1\obj\Debug\MacDonaldsInterview1.exe
+c:\users\ahmed\documents\visual studio 2012\Projects\MacDonaldsInterview1\MacDonaldsInterview1\obj\Debug\MacDonaldsInterview1.pdb
